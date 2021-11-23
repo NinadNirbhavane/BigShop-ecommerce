@@ -10,7 +10,7 @@
 
 
 
-This project was created almost two years ago. Since then, there is a newer version of the project which you can find [here](git@github.com:NinadNirbhavane/BigShop-ecommerce.git)
+updatd version of the project which you can find [here](git@github.com:NinadNirbhavane/BigShop-ecommerce.git)
 
 ---
 
