@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-      <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/105085099/original/41dd8d734b59b8a28144b54f03058f12cccdfa88/do-everything-related-to-python-django.png" alt="DJANGO" height="150" width="150">
+      <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/105085099/original/41dd8d734b59b8a28144b54f03058f12cccdfa88/do-everything-related-to-python-django.png" alt="DJANGO" height="250" width="350">
     </a>
   </p>
   <p align="center">
