@@ -10,7 +10,6 @@
 
 
 
-updatd version of the project which you can find [here](git@github.com:NinadNirbhavane/BigShop-ecommerce.git)
 
 ---
 
